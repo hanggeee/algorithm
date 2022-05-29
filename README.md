@@ -6,9 +6,7 @@
 	<a href="https://solved.ac/oscar1575"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=oscar1575" /></a>
 </p>
 
-
-
-
+### 쉬운 문제라도 꾸준함이 중요하다
 
 ---
 
@@ -28,4 +26,5 @@
 | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: |
 | 0527 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2667 | [단지번호 붙이기](https://www.acmicpc.net/problem/2667) | BFS |
 | 0528 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | BFS |
+| 0529 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10845 | [큐](https://www.acmicpc.net/problem/10845) | 큐 |
 
