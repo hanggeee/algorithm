@@ -31,4 +31,7 @@
 | 0531 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11660 | [구간 합 구하기](https://www.acmicpc.net/problem/11660) | 구간 합 |
 | 0601 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | BFS |
 | 0602 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 3184 | [양](https://www.acmicpc.net/problem/3184) | BFS |
+| 0603 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 구현 |
+| 0604 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | 자료 구조 |
+| 0605 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | 큐 |
 
