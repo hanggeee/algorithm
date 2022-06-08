@@ -36,4 +36,5 @@
 | 0605 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | 큐 |
 | 0606 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966) | 큐 |
 | 0607 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | DFS |
+| 0608 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 13565 | [침투](https://www.acmicpc.net/problem/13565) | 그래프 |
 
