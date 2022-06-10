@@ -34,4 +34,5 @@
 | 0607 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | DFS |
 | 0608 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 13565 | [침투](https://www.acmicpc.net/problem/13565) | 그래프 |
 | 0609 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 13549 | [숨바꼭질3](https://www.acmicpc.net/problem/13549) | 그래프 |
+| 0610 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 18513 | [샘](https://www.acmicpc.net/problem/18513) | 그래프 |
 
