@@ -41,4 +41,5 @@
 | 0614 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 9655 | [돌 게임](https://www.acmicpc.net/problem/9655) | DP |
 | 0615 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | DP |
 | 0616 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 11727 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | DP |
+| 0617 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 14916 | [거스름돈](https://www.acmicpc.net/problem/14916) | 그리디 |
 
