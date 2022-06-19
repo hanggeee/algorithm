@@ -42,5 +42,6 @@
 | 0615 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | DP |
 | 0616 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 11727 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | DP |
 | 0617 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 14916 | [거스름돈](https://www.acmicpc.net/problem/14916) | 그리디 |
-| 0618 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1343 | [폴리오미](https://www.acmicpc.net/problem/1343) | 그리디 |
+| 0618 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1343 | [폴리오미노](https://www.acmicpc.net/problem/1343) | 그리디 |
+| 0619 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1343 | [요세푸스 문](https://www.acmicpc.net/problem/1158) | 자료구조 |
 
