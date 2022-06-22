@@ -46,4 +46,5 @@
 | 0619 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1158 | [요세푸스 문](https://www.acmicpc.net/problem/1158) | 자료구조 |
 | 0620 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br /><img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2164<br />10866 | [카드 2](https://www.acmicpc.net/problem/2164) <br />[덱](https://www.acmicpc.net/problem/10866) | 자료구조 |
 | 0621 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1935 | [후위 표기식 2](https://www.acmicpc.net/problem/1935) | 자료구조 |
+| 0622 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | 자료구조 |
 
