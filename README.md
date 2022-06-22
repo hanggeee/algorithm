@@ -16,7 +16,7 @@
 
 ---
 
-📗 What I solved
+📗 What I solved in BAEKJOON
 
 | 날짜 |                             난이도                             |                              번호                              |                      문제 이름                      |                         기타                                  |
 | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: |
@@ -47,4 +47,12 @@
 | 0620 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br /><img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2164<br />10866 | [카드 2](https://www.acmicpc.net/problem/2164) <br />[덱](https://www.acmicpc.net/problem/10866) | 자료구조 |
 | 0621 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1935 | [후위 표기식 2](https://www.acmicpc.net/problem/1935) | 자료구조 |
 | 0622 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | 자료구조 |
+
+
+
+📗 What I solved in Programmers
+
+| 날짜 | 난이도 |                          문제 이름                           |  기타  |
+| :--: | :----: | :----------------------------------------------------------: | :----: |
+| 0622 |  lv2   | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | 문자열 |
 
