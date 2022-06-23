@@ -6,17 +6,7 @@
 
 ---
 
-📙 알고리즘 사이트
-
-[SW Expert Academy](https://swexpertacademy.com/main/main.do)
-
-[BAEKJOON](https://www.acmicpc.net)
-
-[Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-
----
-
-📗 What I solved in BAEKJOON
+📗 What I solved in [BAEKJOON](https://www.acmicpc.net)
 
 | 날짜 |                             난이도                             |                              번호                              |                      문제 이름                      |                         기타                                  |
 | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: |
@@ -47,10 +37,11 @@
 | 0620 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br /><img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2164<br />10866 | [카드 2](https://www.acmicpc.net/problem/2164) <br />[덱](https://www.acmicpc.net/problem/10866) | 자료구조 |
 | 0621 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1935 | [후위 표기식 2](https://www.acmicpc.net/problem/1935) | 자료구조 |
 | 0622 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | 자료구조 |
+| 0623 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2346 | [풍선 터뜨리](https://www.acmicpc.net/problem/2346) | 자료구조 |
 
 
 
-📗 What I solved in Programmers
+📗 What I solved in [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
 | 날짜 | 난이도 |                          문제 이름                           |  기타  |
 | :--: | :----: | :----------------------------------------------------------: | :----: |
