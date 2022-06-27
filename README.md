@@ -37,7 +37,10 @@
 | 0620 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/><br /><img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2164<br />10866 | [카드 2](https://www.acmicpc.net/problem/2164) <br />[덱](https://www.acmicpc.net/problem/10866) | 자료구조 |
 | 0621 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1935 | [후위 표기식 2](https://www.acmicpc.net/problem/1935) | 자료구조 |
 | 0622 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | 자료구조 |
-| 0623 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2346 | [풍선 터뜨리](https://www.acmicpc.net/problem/2346) | 자료구조 |
+| 0623 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2346 | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | 자료구조 |
+| 0624 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | ? | [?](https://www.acmicpc.net/problem/2346) | 자료구조 |
+| 0625 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | ? | [?](https://www.acmicpc.net/problem/2346) | 자료구조 |
+| 0626 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 20413 | [MVP 다이아몬드](https://www.acmicpc.net/problem/20413) | 그리디 |
 
 
 
