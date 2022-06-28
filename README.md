@@ -41,6 +41,8 @@
 | 0624 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | ? | [?](https://www.acmicpc.net/problem/2346) | 자료구조 |
 | 0625 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | ? | [?](https://www.acmicpc.net/problem/2346) | 자료구조 |
 | 0626 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 20413 | [MVP 다이아몬드](https://www.acmicpc.net/problem/20413) | 그리디 |
+| 0627 |  |  |  |  |
+| 0628 |  |  |  |  |
 
 
 
