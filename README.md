@@ -46,6 +46,7 @@
 | 0629 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 3187 | [양치기 꿍](https://www.acmicpc.net/problem/3187) | BFS |
 | 0630 |  |  |  |  |
 | 0701 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 5567 | [결혼식](https://www.acmicpc.net/problem/5567) | BFS |
+| 0702 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | DP |
 
 
 
