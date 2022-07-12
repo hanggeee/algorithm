@@ -49,13 +49,16 @@
 | 0702 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | DP |
 | 0703 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | DFS, BFS, DP |
 | 0704 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 17281 | [야구](https://www.acmicpc.net/problem/17281) | 구현, 브루트포스 |
-<<<<<<< HEAD
+|      |                                                              |                 |                                                              ||
 | 0705 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 16637 | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | 브루트포스 |
-| 0706 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> |  | [](https://www.acmicpc.net/problem/17281) |   |
+| 0706 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 7287 | 등록 |   |
 | 0707 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1303 | [전쟁](https://www.acmicpc.net/problem/1303) | 그래프 |
-=======
-|  |  |  |  |  |
->>>>>>> c66e9d7e2e60c6e46da6a5665652fc4482adaeec
+|0708|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|17609|[회문](https://www.acmicpc.net/problem/17609)|문자열, 투 포인터|
+| 0709 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 17471 | [게리맨더링](https://www.acmicpc.net/problem/17471) | BFS, 조합 |
+| 0710 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 25083 |                             새싹                             | 구현 |
+| 0711 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | 10039 | [평균 점수](https://www.acmicpc.net/problem/10039) | 수학 |
+| 0712 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 3029 | [경고](https://www.acmicpc.net/problem/3029) | 문자열 |
+
 
 
 
