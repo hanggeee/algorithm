@@ -49,6 +49,9 @@
 | 0702 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | DP |
 | 0703 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | DFS, BFS, DP |
 | 0704 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 17281 | [야구](https://www.acmicpc.net/problem/17281) | 구현, 브루트포스 |
+| 0705 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 16637 | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | 브루트포스 |
+| 0706 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> |  | [](https://www.acmicpc.net/problem/17281) |   |
+| 0707 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1303 | [전쟁](https://www.acmicpc.net/problem/1303) | 그래프 |
 
 
 
