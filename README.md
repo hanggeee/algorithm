@@ -60,6 +60,7 @@
 | 0712 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 3029 | [경고](https://www.acmicpc.net/problem/3029) | 문자열 |
 | 0713 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 14716 | [현수막](https://www.acmicpc.net/problem/14716) | 그래프 |
 | 0713 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 3005 | [크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) | 문자열, 파싱 |
+| 0715 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 16171 | [나는 친구가 적다(Small)](https://www.acmicpc.net/problem/16171) | 문자열, 파싱 |
 
 
 
