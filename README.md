@@ -65,6 +65,7 @@
 | 0716 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 16916 | [부분 문자열](https://www.acmicpc.net/problem/16916) | 문자열, 정규표현식 |
 | 0717 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | 문자열, 집합, 맵 |
 | 0717 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 20291 | [파일 정리](https://www.acmicpc.net/problem/20291) | 문자열, 정렬, 파싱 |
+| 0718 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 17413 | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | 문자열 |
 
 
 
