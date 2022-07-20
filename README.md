@@ -70,8 +70,6 @@
 | 0720 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1599 | [민식어](https://www.acmicpc.net/problem/1599) | 문자열, 파싱 |
 
 
-
-
 📗 What I solved in [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
 | 날짜 | 난이도 |                          문제 이름                           |  기타  |
