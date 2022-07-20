@@ -67,6 +67,7 @@
 | 0717 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 20291 | [파일 정리](https://www.acmicpc.net/problem/20291) | 문자열, 정렬, 파싱 |
 | 0718 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 17413 | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | 자료구조, 문자열, 스택 |
 | 0719 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11123 | [양 한마리..양 두마리..](https://www.acmicpc.net/problem/11123) | 그래프 |
+| 0720 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1599 | [민식어](https://www.acmicpc.net/problem/1599) | 문자열, 파싱 |
 
 
 
